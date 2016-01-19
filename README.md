@@ -1,3 +1,5 @@
-# version_control
+# vcKAMK
+This is a sample repository. 
 
-asdasda
+# Your name below this line 
+Petri Jokinen
